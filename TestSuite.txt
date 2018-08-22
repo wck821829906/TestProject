@@ -1,5 +1,4 @@
 *** Settings ***
-Library           ZAPublicLibrary
 Library           SeleniumLibrary
 Resource          resource.txt
 
